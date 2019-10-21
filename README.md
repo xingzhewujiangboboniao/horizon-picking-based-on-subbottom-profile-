@@ -1,5 +1,6 @@
 # horizon-picking-based-on-subbottom-profile-
 horizon picking based on subbottom profile 
+
 0. The pciking method is described in article "A Comprehensive Horizon Picking Method on Subbottom Profiles by Combining Envelope, Phase Attributes, and Texture Analysis".(This article is underview now)
 1. Envelop data and fullwave data can be processed through this software. Test data can be found through https://zenodo.org/record/3514447#.Xaz53mZ5taQ and https://zenodo.org/record/1482324#.Xaz1-GZ5taR.
 2. .fig provide a GUI to run the software.
